@@ -1,0 +1,20 @@
+li{
+    list-style: none;
+}
+
+.navdiv .navbar{
+    background-color: #3f475f
+    
+}
+
+.navdiv .navbar div a{
+    background-color: yellow; color: black; font-weight: bold
+}
+.navdiv .navbar div a span{
+    color: yellow
+}
+
+.selection{
+    margin-top: 5%
+}
+
