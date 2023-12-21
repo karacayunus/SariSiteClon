@@ -1,13 +1,16 @@
 li{
     list-style: none;
 }
+li .otomobilselect{
+    color: #039;
+}
 
-.navdiv .navbar{
+.navbar{
     background-color: #3f475f
     
 }
 
-.navdiv .navbar div a{
+.navbar div a{
     background-color: yellow; 
     color: black; 
     font-weight: bold
