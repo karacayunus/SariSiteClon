@@ -1,0 +1,63 @@
+li{
+    list-style: none;
+}
+
+.navdiv .navbar{
+    background-color: #3f475f
+    
+}
+
+.navdiv .navbar div a{
+    background-color: yellow; 
+    color: black; 
+    font-weight: bold
+}
+.yellowspan{
+    color: yellow
+}
+
+.selection{
+    margin-top: 5%
+}
+
+.selectionbaslik{
+    font-weight: bold;
+}
+
+
+
+.navinput{
+    background-color: white; 
+    width: 500px
+}
+
+.menuinputform{
+    width: 300px; 
+    height: auto;
+}
+
+.showcasepage{
+    margin-top: 3%;
+}
+
+.row{
+    margin-top: 2%;
+    grid-column-gap: 2.5cap
+}
+
+.row div{
+    cursor: pointer;  
+}
+
+.row div a{
+    text-align: center;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden; 
+    text-overflow: ellipsis;  
+    color: black;
+}
+
+.row img{
+    width: 100%;
+}
