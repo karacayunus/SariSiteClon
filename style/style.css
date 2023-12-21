@@ -5,6 +5,7 @@ li .otomobilselect{
     color: #039;
 }
 
+
 .navbar{
     background-color: #3f475f
     
@@ -63,4 +64,35 @@ li .otomobilselect{
 
 .row img{
     width: 100%;
+}
+
+.otolist{
+    overflow: auto; 
+    height: 300px; 
+    width: 300px;
+
+}
+
+.otolistdiv{
+    margin-top: 1%; 
+    margin-right: 4%;
+
+}
+
+h2{
+    color: bisque; 
+    font-weight: lighter;
+}
+
+.audilistdiv{
+    margin-top: 1%; 
+    margin-left: 5%
+}
+
+.audilist{
+    overflow: auto; height: 300px; width: 300px;
+}
+
+h6 .audi{
+    
 }
