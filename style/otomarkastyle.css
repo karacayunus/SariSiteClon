@@ -1,0 +1,48 @@
+tr {
+    text-align: center;
+}
+
+th a{
+    color: #039
+}
+
+tbody{
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+tbody .ilanbaslik{
+    font-weight: bold;
+}
+
+tbody .price{
+    color: #910000;
+}
+
+td img{
+    width: 124px; height: 93px;
+}
+
+.topselection{
+    text-align: center; list-style: none; display: flex; background-color: #f2f2f2
+}
+
+.topselection a{
+    color: #039;
+}
+
+.col-9{
+    margin-right: 10%;
+}
+
+.otolistdiv{
+    margin-top: 1%; 
+    margin-left: 5%
+}
+
+.otolist{
+    overflow: auto; 
+    height: 300px; 
+    width: 300px;
+}
+
